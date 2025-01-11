@@ -47,11 +47,11 @@ const Contact = () => {
 
             <div className="space-y-4">
               <a
-                href="mailto:contact@vikassana.dev"
+                href="mailto:saanavikas.3@gmail.com"
                 className="flex items-center space-x-4 text-gray-300 hover:text-accent-blue transition-colors"
               >
                 <Mail className="w-6 h-6" />
-                <span>contact@vikassana.dev</span>
+                <span>saanavikas.3@gmail.com</span>
               </a>
               
               <a
